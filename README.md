@@ -19,6 +19,7 @@ Train
 python train.py
 
 #Inference exapmles<br>
-<img width="960" alt="t1" src="https://github.com/arka57/German-to-English-Translation-Using-Transformer/assets/36561428/1df1552a-0305-4bde-bfa9-d48e5dd3ad12">
-<img width="960" alt="t2" src="https://github.com/arka57/German-to-English-Translation-Using-Transformer/assets/36561428/4f24a911-0914-40db-bc19-c759cddc505b">
 
+<img width="613" alt="t1" src="https://github.com/arka57/German-to-English-Translation-Using-Transformer/assets/36561428/3072a143-88b7-4fad-a7c3-c8583870dcf3">
+
+<img width="641" alt="t2" src="https://github.com/arka57/German-to-English-Translation-Using-Transformer/assets/36561428/23b0f6ab-9fb4-4a31-97c5-c8a90a4a1514">

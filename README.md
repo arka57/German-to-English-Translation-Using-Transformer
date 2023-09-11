@@ -15,11 +15,18 @@ python -m spacy download de_core_news_sm
 python -m spacy download en_core_web_sm
 
 
-Train
+# Training
+
+The model was trained on the above dataset for 500 epochs using Colab GPU<br>
+
+**Steps:**
 python train.py
 
-#Inference exapmles<br>
+# Inference exapmles<br>
 
+The model performed decently considering the vocabulary size is 100000 and the epochs trained
+<br>
+**Example1**
 <img width="613" alt="t1" src="https://github.com/arka57/German-to-English-Translation-Using-Transformer/assets/36561428/3072a143-88b7-4fad-a7c3-c8583870dcf3">
-
+**Example2**
 <img width="641" alt="t2" src="https://github.com/arka57/German-to-English-Translation-Using-Transformer/assets/36561428/23b0f6ab-9fb4-4a31-97c5-c8a90a4a1514">
